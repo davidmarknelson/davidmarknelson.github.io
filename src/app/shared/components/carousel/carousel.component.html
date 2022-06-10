@@ -23,6 +23,6 @@
   </li>
 </ul>
 
-<button class="expand" dnButton (click)="open()">
+<button class="expand" dnButton (click)="open()" aria-haspopup="dialog" [attr.aria-label]="title">
   <fa-icon [icon]="faExpand"></fa-icon>
 </button>

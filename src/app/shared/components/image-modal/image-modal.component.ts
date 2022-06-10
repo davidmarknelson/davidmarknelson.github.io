@@ -18,6 +18,9 @@ import { ImageModalConfig } from '../../services/modal/modal.service';
   templateUrl: './image-modal.component.html',
   styleUrls: ['./image-modal.component.scss'],
   changeDetection: ChangeDetectionStrategy.OnPush,
+  host: {
+    role: 'dialog',
+  },
   animations: [
     trigger('fade', [
       transition(':increment, :decrement', [
