@@ -19,11 +19,6 @@ export const Sfr2Data: IProjectInfo = {
   ],
   actions: [
     {
-      href: 'https://share-family-recipes.netlify.app',
-      text: 'Site',
-      ariaLabel: 'Share Family Recipes V2 Site',
-    },
-    {
       href: 'https://github.com/davidmarknelson/sfr-v2',
       text: 'Code',
       ariaLabel: 'Share Family Recipes V2 Code',

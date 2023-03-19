@@ -24,11 +24,6 @@ export const PokeSurveyData: IProjectInfo = {
   ],
   actions: [
     {
-      href: 'https://poke-survey.herokuapp.com/',
-      text: 'Site',
-      ariaLabel: 'Poké-Survey Site',
-    },
-    {
       href: 'https://github.com/davidmarknelson/poke-survey',
       text: 'Code',
       ariaLabel: 'Poké-Survey Code',

@@ -23,11 +23,6 @@ export const Sfr1Data: IProjectInfo = {
   ],
   actions: [
     {
-      href: 'https://gifted-borg-c6bee0.netlify.app/',
-      text: 'Site',
-      ariaLabel: 'Share Family Recipes Site',
-    },
-    {
       href: 'https://github.com/davidmarknelson/share-family-recipes',
       text: 'Code',
       ariaLabel: 'Share Family Recipes Code',

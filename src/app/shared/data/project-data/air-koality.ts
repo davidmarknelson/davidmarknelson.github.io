@@ -24,11 +24,6 @@ export const AirKoalatyData: IProjectInfo = {
   ],
   actions: [
     {
-      href: 'https://airkoalatyreport.herokuapp.com/',
-      text: 'Site',
-      ariaLabel: 'Air KOALAty Report Site',
-    },
-    {
       href: 'https://github.com/davidmarknelson/air-koalaty-report',
       text: 'Code',
       ariaLabel: 'Air KOALAty Report Code',

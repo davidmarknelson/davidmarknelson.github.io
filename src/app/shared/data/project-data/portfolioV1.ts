@@ -20,11 +20,6 @@ export const Portfolio1Data: IProjectInfo = {
   ],
   actions: [
     {
-      href: 'https://davidnelsoncodes.herokuapp.com/',
-      text: 'Site',
-      ariaLabel: 'Portfolio Version 1 Site',
-    },
-    {
       href: 'https://github.com/davidmarknelson/david-portfolio',
       text: 'Code',
       ariaLabel: 'Portfolio Version 1 Code',
